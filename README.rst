@@ -1,9 +1,6 @@
-Octoboard
-=========
-
 .. image:: https://github.com/lanius/octoboard/raw/master/artwork/logo_for_github.png
-  :alt: Octoboard Logo
-  :align: right
+  :alt: Octoboard
+  :align: center
 
 What is this?
 -------------
